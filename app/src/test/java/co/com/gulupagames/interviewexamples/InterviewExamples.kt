@@ -68,7 +68,7 @@ class InterviewExamples {
 
     //get how many times exist a number in a list and in a set
     @Test
-    fun finNumberQuantity() {
+    fun findNumberQuantity() {
         val toSearch = 76
         var sumList = 0
         var sumSet = 0
